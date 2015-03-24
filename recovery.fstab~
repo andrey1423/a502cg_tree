@@ -1,7 +1,0 @@
-/system           ext4       /dev/block/platform/intel/by-label/system
-/data             ext4       /dev/block/platform/intel/by-label/data		length=-16384
-/cache            ext4       /dev/block/platform/intel/by-label/cache
-/config            ext4       /dev/block/platform/intel/by-label/config
-/sdcard		vfat		/dev/block/mmcblk1p1  flags=display="Micro SDcard";storage;wipeingui;removable
-/factory            ext4       /dev/block/platform/intel/by-label/factory
-/APD            ext4       /dev/block/platform/intel/by-label/factory
